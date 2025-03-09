@@ -14,3 +14,7 @@
 ### Cristian Larios
 
 ### Linkedin: https://www.linkedin.com/in/cristian-larios/
+
+### Deployments:
+* https://fas5ter.github.io/portafolio/
+* https://portafolio-zeta-dusky.vercel.app/
